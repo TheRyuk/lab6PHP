@@ -1,0 +1,13 @@
+command_id,example_code,description
+ls,"ls -lh","Перегляд вмісту з розмірами файлів"
+pwd,pwd,"Виведення поточного шляху"
+pwd,eee,ee
+cd,"cd /home/user","Перехід у директорію /home/user"
+ping,"ping google.com","Перевірка доступності google.com"
+ping,"ping nung.edu.ua","Перевірка доступності nung.edu.ua"
+ifconfig,"ifconfig eth0","Перегляд налаштувань інтерфейсу eth0"
+top,"top -u username","Моніторинг процесів користувача username"
+ps,"ps aux","Перегляд всіх запущених процесів"
+chmod,"chmod 755 file.txt","Надання прав доступу для файлу file.txt"
+find,"find / -name ""*.txt""","Пошук усіх файлів з розширенням .txt"
+tar,"tar -czvf archive.tar.gz /home/user","Стиснення директорії у tar-архів"
